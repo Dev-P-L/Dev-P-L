@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-P-L Data Analyst & Data Scientist
-- 👀 I’m interested in Machine Learning and Deep Learning. My preferred programming language is R. I am also using SQL.
-- 🌱 I’m currently developing my skills in Python.
+- 👀 I’m interested in Machine Learning and Deep Learning. I use R, Python, and SQL.
+- 🌱 I’m currently more active in Python.
 - 🤝 I’m looking to collaborate on Data Science and Machine Learning projects. 
 - 📫 How to reach me? Very easy: internationally.liaising@gmail.com
 
