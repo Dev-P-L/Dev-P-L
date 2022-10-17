@@ -1,4 +1,4 @@
-# Challenged by You, succeeding with You!
+# Challenged by You, Succeeding with You!
 
 - 👋 Hi, I’m @Dev-P-L Data Analyst & Data Scientist
 - 👀 I’m interested in Machine Learning and Deep Learning. I use R, Python, and SQL.
